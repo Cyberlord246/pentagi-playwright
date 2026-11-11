@@ -1,0 +1,5 @@
+# nothing sensitive here, but keep local build noise out
+build.log
+*.tmp
+node_modules/
+webauto-*/
